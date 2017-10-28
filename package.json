@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "node-fetch": "^1.7.3",
+    "xml2js": "^0.4.19"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "graphql-goodreads",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
